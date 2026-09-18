@@ -1,0 +1,3 @@
+Tags box at the top, used to aim the scraper. 
+Tags can be separated with a comma to add multiple. 
+Tags such as FULL_PAGE will grab full page. 

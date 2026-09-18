@@ -1,0 +1,156 @@
+{
+    "E-Commerce & Retail": [
+        "add to cart",
+        "proceed to checkout",
+        "shipping and returns",
+        "track your order",
+        "frequently bought together",
+        "out of stock",
+        "customer reviews",
+        "payment methods accepted",
+        "shop the sale"
+    ],
+    "News & Digital Media": [
+        "breaking news",
+        "latest headlines",
+        "editorial board",
+        "opinion piece",
+        "read full article",
+        "subscribe for unlimited access",
+        "written by",
+        "minute read"
+    ],
+    "Corporate SaaS & B2B": [
+        "book a demo",
+        "request a quote",
+        "case studies",
+        "meet the team",
+        "enterprise solutions",
+        "pricing plans",
+        "trusted by leading teams",
+        "start your free trial"
+    ],
+    "Community & Social Forum": [
+        "join the discussion",
+        "view user profile",
+        "latest replies",
+        "forum rules",
+        "active members",
+        "moderator",
+        "forgot password?",
+        "thread locked"
+    ],
+    "Portfolio & Freelance": [
+        "my work",
+        "get in touch",
+        "download resume",
+        "projects i've worked on",
+        "freelance services",
+        "hire me",
+        "view my portfolio",
+        "creative director"
+    ],
+    "Education & Academic": [
+        "student portal",
+        "admissions requirements",
+        "campus life",
+        "course catalog",
+        "academic calendar",
+        "apply now",
+        "financial aid",
+        "tuition and fees",
+        "alumni network"
+    ],
+    "Government & Civic Services": [
+        "official website of",
+        "public services",
+        "citizen portal",
+        "contact your representative",
+        "department of",
+        "legislation",
+        "tax guidelines",
+        "city council"
+    ],
+    "Streaming & Entertainment": [
+        "watch now",
+        "stream full episodes",
+        "start watching",
+        "season 1",
+        "now playing",
+        "add to watchlist",
+        "cast and crew",
+        "rent or buy"
+    ],
+    "Travel & Booking": [
+        "book a flight",
+        "check availability",
+        "hotel reservations",
+        "round trip",
+        "car rental",
+        "departure date",
+        "travel guide",
+        "all-inclusive"
+    ],
+    "Real Estate & Property": [
+        "homes for sale",
+        "schedule a tour",
+        "virtual tour",
+        "square feet",
+        "real estate agent",
+        "mortgage calculator",
+        "open house",
+        "request info"
+    ],
+    "Financial & Banking": [
+        "online banking",
+        "open an account",
+        "wealth management",
+        "credit card offers",
+        "loan rates",
+        "member fdic",
+        "investment portfolio",
+        "routing number"
+    ],
+    "High-Risk: Phishing & Scams": [
+        "verify your account",
+        "urgent action required",
+        "unusual login attempt",
+        "claim your prize",
+        "update your billing",
+        "account will be suspended",
+        "click here to unlock"
+    ],
+    "High-Risk: OpSec & Comms": [
+        "pgp public key",
+        "wickr",
+        "session id",
+        "jabber",
+        "telegram plug",
+        "vendor rating",
+        "otr messaging"
+    ],
+    "High-Risk: Dark Logistics": [
+        "stealth shipping",
+        "vacuum sealed",
+        "double mylar",
+        "decoy packaging",
+        "reship policy",
+        "customs seizure",
+        "domestic only"
+    ],
+    "High-Risk: Anonymous Finance": [
+        "monero only",
+        "xmr accepted",
+        "multisig wallet",
+        "escrow system",
+        "finalize early",
+        "pgp signed address"
+    ],
+    "High-Risk: Clearnet Euphemisms": [
+        "research chemicals",
+        "not for human consumption",
+        "strictly for laboratory use",
+        "rc vendor",
+        "plant food only"
+    ]
+}
